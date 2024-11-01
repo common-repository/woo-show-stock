@@ -1,0 +1,128 @@
+# Copyright (C) 2024 Bright Plugins
+# This file is distributed under the same license as the Show Stock Status for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Show Stock Status for WooCommerce 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-show-stock\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-08T13:50:43+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: woo-show-stock\n"
+
+#. Plugin Name of the plugin
+msgid "Show Stock Status for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show the “Stock Quantity” for each product in the shop, category and archive pages."
+msgstr ""
+
+#. Author of the plugin
+msgid "Bright Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://brightplugins.com/"
+msgstr ""
+
+#: main.php:36
+msgid " Out of stock"
+msgstr ""
+
+#: main.php:47
+msgid "<div class='remaining-low-stock'> Only %s left in stock</div>"
+msgstr ""
+
+#. translators: number of stock .
+#: main.php:55
+msgid "<div class='remaining'> %s left in stock </div>"
+msgstr ""
+
+#. translators: number of stock .
+#: main.php:98
+msgid "<div class='remaining-low-stock bpss-low-stock'>Only %s left in stock </div>"
+msgstr ""
+
+#. translators: number of stock .
+#: main.php:107
+msgid "<div class='remaining bpss-remaining'> %s left in stock </div>"
+msgstr ""
+
+#. translators: number of stock .
+#: main.php:132
+msgid "<div class='remaining-low-stock bpss-low-stock'>Only %s left in stock</div>"
+msgstr ""
+
+#. translators: number of stock .
+#: main.php:140
+msgid "<div class='remaining bpss-remaining'> %s left in stock</div>"
+msgstr ""
+
+#: main.php:163
+msgid "Stock Settings"
+msgstr ""
+
+#: main.php:165
+msgid "The following options are used to configure how to show your stock"
+msgstr ""
+
+#: main.php:170
+msgid "Always show stock"
+msgstr ""
+
+#: main.php:172
+msgid "Always show available stock"
+msgstr ""
+
+#: main.php:177
+msgid "Show detailed stock on admin products page"
+msgstr ""
+
+#: main.php:179
+msgid "When product is variable it shows the Stock on product level and the Stock on variant level"
+msgstr ""
+
+#: main.php:184
+msgid "Stock position"
+msgstr ""
+
+#: main.php:188
+msgid "After shop loop (recommended)"
+msgstr ""
+
+#: main.php:189
+msgid "After title"
+msgstr ""
+
+#: main.php:190
+msgid "Before title"
+msgstr ""
+
+#: main.php:192
+msgid "Where the actual stock should be displayed"
+msgstr ""
+
+#: main.php:290
+msgid "Show stock display type"
+msgstr ""
+
+#: main.php:293
+msgid "Display product level stock quantity"
+msgstr ""
+
+#: main.php:294
+msgid "Display the sum of all variants stock"
+msgstr ""
+
+#: main.php:295
+msgid "Product stock + Variants stock (default)"
+msgstr ""
+
+#: main.php:298
+msgid "This setting is only applied when a variable product uses both stock management (product level and variant level at same time). With both levels enabled the stock quantity can result in an inconsistent value. <br>So choose witch display type you would like to show when the product has both systems enabled."
+msgstr ""
